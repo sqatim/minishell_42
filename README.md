@@ -9,6 +9,10 @@ With Minishell, we’ll be able to travel through time and come back to problems
 ## Subject
 + [Minishell_subject](/Minishell_subject.pdf)
 
+## Contributors
++ Hamza Elkhatri : [Hamzaelkhatri](https://github.com/Hamzaelkhatri)
++ Samir Qatim    : [Sqatim](https://github.com/sqatim) 
+
 ## How To Use
 1. Clone this repo.
 2. Run the `make` command. It will create the `minishell` executable.
